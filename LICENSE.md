@@ -3,9 +3,9 @@ Version 1.1, July 2024
 
 Copyright (c) 2024 Supplementaries Team.  All Rights Reserved.
 
-This License Agreement is made between the author(s) of the Software and any person or entity who obtains a copy of this software and/or its associated files.
+This License Agreement is made between the author(s) of the Software and any person or entity who obtains a copy of this Software and/or its associated files.
 
-By using the software, the Licensee agrees to be bound by the terms and conditions of this Agreement.
+By using the Software, the Licensee agrees to be bound by the terms and conditions of this Agreement.
 
 ## 0. Summary
 This license allows nearly all uses for personal purposes, including modification and private sharing from official sources.
