@@ -23,7 +23,7 @@ You may only modify the software for private use or to contribute to the softwar
 You may only distribute this software for private use.  You may not publish this software.
 
 ### Sub-Licensing
-Sub-licensing the software is not allowed.
+Sub-Licensing the software is not allowed.
 
 ### Selling
 Selling this software and/or its associated files is not allowed.
