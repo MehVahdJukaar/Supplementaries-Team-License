@@ -1,5 +1,5 @@
 # Supplementaries Team License
-Version 1.1, July 2024
+Version 1.2, December 2024
 
 Copyright (c) 2024 Supplementaries Team.  All Rights Reserved.
 
@@ -22,6 +22,8 @@ For the purposes of this Agreement, the following definitions apply:
 
 - **Compete** refers to any project or software offering similar functionality, features, or services as the Software and targeting the same or a similar user base. This includes, but is not limited to, software that directly substitutes or mirrors one or more functionalities of the Software
 
+- **Assets** refers to any non-code components of the Software, including but not limited to textures, models, sounds, icons, and other visual or auditory elements.
+
 ## 2. Grant of License
 
 Permissions are hereby granted below to any person having a copy of
@@ -35,6 +37,7 @@ The Software may be copied for private use or to contribute to its development.
 The Licensee may incorporate part of this Software code into their own projects provided that:
 - Appropriate credit is given to the original authors of the Software.
 - The Licensee's project does not "Compete" with the Software.
+- "Assets" are exempt from this clause and require explicit premission
 
 ### 2.3. Modification
 The Software may be modified for private use or to contribute to its development.
@@ -46,7 +49,7 @@ Public distribution or publication of the Software, in whole or in part, is stri
 The Licensee is permitted to share the Software privately with a limited number of individuals, such as friends or family members, provided that:
 
 - The sharing is done without any form of commercial gain or compensation.
-- The Software is not made publicly available or accessible to the general public.
+- The Software, in whole or in part, is not made publicly available or accessible to the general public.
 - The recipients of the Software agree to abide by the terms and conditions of this Agreement.
 
 ### 2.5. Sub-Licensing
