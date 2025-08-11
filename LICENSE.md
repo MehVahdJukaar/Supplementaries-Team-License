@@ -20,7 +20,7 @@ For the purposes of this Agreement, the following definitions apply:
 
 - **Our Sources** refers to copies of the Software or its associated files obtained directly from the owners. This includes files available on the owners' official CurseForge or Modrinth project pages.
 
-- **Compete** refers to any project or software that provides similar functionality, features, or services to the Software and is aimed at the same or a similar user base, such that it could serve as a substitute for the Software. A project or software is considered Competing if it replicates, replaces, or provides alternatives to one or more key functionalities of the Software in a way that reduces or eliminates the need for the Software
+- **Compete** refers to any project or software that provides similar functionality, features, or services to the Software and is aimed at the same or a similar user base, such that it could serve as a substitute for the Software, in part or whole. Thus, a project or software is considered Competing if it replicates, replaces, or provides alternatives to one or more key functionalities of the Software in a way that reduces or eliminates the need for the Software
 
 
 - **Assets** refers to any non-code components of the Software, including but not limited to textures, models, sounds, icons, and other visual or auditory elements.
