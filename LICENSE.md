@@ -1,5 +1,5 @@
- # Supplementaries Team License
-Version 1.4, August 2025
+# Supplementaries Team License
+Version 1.5, September 2025
 
 Copyright (c) 2025 Supplementaries Team.  All Rights Reserved.
 
@@ -11,7 +11,7 @@ By using the Software, the Licensee agrees to be bound by the terms and conditio
 This license allows nearly all uses for personal purposes, including modification and private sharing from official sources.
 The license protects authors' rights while maintaining some open-source qualities, such as accepting contributions and allowing code integration in non-competing projects.
 Public use is permitted with proper credit to the authors.
-Public redistribution and commercial use are prohibited. 
+Public redistribution and commercial use are prohibited.
 
 ## 1. Definitions
 
@@ -31,7 +31,7 @@ Permissions are hereby granted below to any person having a copy of
 this software and/or its associated files:
 
 ### 2.1. Usage
-The Software may be used for both private and public purposes. 
+The Software may be used for both private and public purposes.
 It may be integrated with your code as either a soft (e.g., dynamic linking or API access) or hard (e.g., static linking or direct calls) dependency, provided that the Software is obtained exclusively from "Our Sources".
 
 ### 2.2. Copying
@@ -39,7 +39,7 @@ The Software may be copied for private use or to contribute to its development.
 The Licensee may incorporate part of this Software code into their own projects provided that:
 - Appropriate credit is given to the original authors of the Software.
 - The Licensee's project does not "Compete" with the Software.
-- "Assets" are exempt from this clause and require explicit permission
+- "Assets" are exempt from this clause and require explicit permission unless they are part of a project that is a dependency of the Software.
 
 ### 2.3. Modification
 The Software may be modified for private use or to contribute to its development.
